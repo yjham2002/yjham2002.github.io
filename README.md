@@ -2,11 +2,15 @@
 
 ![Profile_img](http://yjham2002.cafe24.com/ham/images/who.png)
 
-- Keyword : C, C++, Java, Android, Java AWT/Swing, Python, VB, MySQL, Spring Framework, JSP, PHP, JavaScript, ActionScript 2.0, HTML, CSS, Web/UI/UX/BI/CI Design, PhotoShop, Illustrator
+- Keyword : C, C++, Java, Android, Node.js, Go, Java AWT/Swing, Python, VB, MySQL, Spring Framework, JSP, PHP, JavaScript, ActionScript 2.0, HTML, CSS, Web/UI/UX/BI/CI Design, PhotoShop
 
 ***
 
 ## 프로필
+
+**성명**
+* 함의진(EuiJin Ham)
+
 **생년월일** 
 * 1995년 05월 03일 출생 (서울특별시 영등포구)
 
@@ -17,8 +21,11 @@
 * [GitHub](https://github.com/yjham2002)
 * [Facebook](https://www.facebook.com/livertyboy)
 
-**학력** 
-* **2014.03-현재** [동국대학교 컴퓨터공학전공](https://cse.dongguk.edu) 3학년
+**학력**
+* **2002.03 ~ 2008-02** [인천 단봉초등학교](http://www.danbong.icees.kr) 졸업
+* **2008.03 ~ 2011-02** [양평 양일중학교](http://www.yangil.ms.kr) 졸업
+* **2011.03 ~ 2014-02** [양평 양일고등학교](http://www.yangil.hs.kr) 졸업
+* **2014.03 - 현재** [동국대학교 컴퓨터공학전공](https://cse.dongguk.edu) 3학년 재학
 
 **자격증**
 * **정보처리산업기사**
@@ -67,6 +74,7 @@
 ***
 
 ## 요약
+
 **Android 네이티브 어플리케이션** 
 * [HideAndSeek - 혼자하는 술래잡기](https://play.google.com/store/apps/details?id=com.now.seek.and.hide.hideandseek)
 
@@ -100,7 +108,11 @@
 * Go언어 및 Java언어를 이용한 동시성(Concurrency in Go and Java - IEEE, 2014) 재현 프로그램 구현[on Github](https://github.com/yjham2002/ConcurrencyTest_Java)
 
 **특이사항**
-* Erlang을 이용한 간단한 서버 구현 경험
+* 동국대학교 전자 학습 관리시스템 eClass 보안 취약점을 발견하여 신고 및 공격 시연 경험(HTTP 패킷 스니핑 via BurpSuite and WireShark)
+* 소프트웨어 공학개론 전공 강의에서 애자일 프로세스를 활용한 우수한 소프트웨어 제작을 통한 입상 경험
+* Erlang 언어를 이용한 간단한 서버 구현 경험
+* Go 언어를 이용한 간단한 채팅 서버 구현 경험
+* PetriNet을 이용한 동시성 성능 분석 경험
 
 ***
 
@@ -156,13 +168,38 @@
 *HideAndSeek은 GPS를 기반으로 혼자 술래잡기를 할 수 있는 안드로이드 게임 앱으로 구글 게임 서비스를 통해 경쟁을 할 수도 있습니다.*
 
 **개요**
-* 내용
+* 혼자 술래잡기를 즐길 수 있는 GPS기반의 네이티브 앱입니다.
+
+* 가상의 술래를 지도에 배치하여 사용자를 따라가도록 합니다.
+
+* 사용자로 하여금 현실에서의 달리기를 유도하여 보다 건강한 동기를 부여할 수 있는 앱입니다.
+
+* 구글 게임 서비스 연동을 통해 사용자간 순위 비교가 가능합니다.
 
 **특징**
-* 내용
+* 구글 계정 기반으로 자동으로 로그인되어 별도의 정보제공이나 회원가입이 필요하지 않습니다.
+
+* 실제 지도를 바탕으로 게임을 구성하여 현실감 있는 플레이를 할 수 있습니다.
+
+* 현재 구글 플레이 사용자 약 1000명이 이용 중입니다. (2016/12/22 기준)
+
+* ![소개 이미지 - HideAndSeek01](https://lh3.googleusercontent.com/XlzHMvNsiT_5kCibqKySahtZbEJCWzagwBNTd_3_7xn2sBLqEE7bHV6X_IovwdTXyAs=h900)
+
+* ![소개 이미지 - HideAndSeek02](https://lh3.googleusercontent.com/WDP5D_Ecm6CgaGqqzlGa-9BGmt5lh8m-3piN1QEPanohX_f1bFTI0sXSR3dsghM98w=h900)
 
 **협업 및 프로세스 관리도구**
 * [Github](https://github.com/yjham2002/HideAndSeek)
 
 **오픈소스 라이센스** 
 * [GoogleMap API](https://console.developers.google.com/) 
+
+### [2016 한국정보보호학회 동계학술대회](http://www.cisc.or.kr)
+* 국문 제목 : 의사난수 전치암호를 이용한 입력 장치 인증 정보 전송 과정 암호화, 2016, 함의진 외 1
+* 영문 제목 : Pre-Encryption using Random Number Functional-related Transposition Cipher
+* 투고 배경 : 2016년도 교내 개별연구 활동을 통해 '파이썬을 이용한 해킹 방법 연구'에서 확장
+* 초록 : 인간의 생활에서 접하는 정보처리장치들은 대부분 사용자를 식별하고 이에 대한 인증을 할 수 있도록 암호를 사용하고 있으며, 이에 대한 중요성은 계속해서 증대되는 추세이다. 그러나, 암호를 입력하는 과정에서 사용자는 휴먼 인터페이스 기기(키보드 혹은 터치 스크린 등)를 매개로 하는 입력을 할 수 밖에 없고, 이러한 과정에서 발생할 수 있는 여러 종류의 유출 위협으로부터 안전할 수 없다. 본 연구에서는 기존의 입력체계와는 독립적으로, 사용자의 입력과 동시에 암호화를 적용하는 선암호화 기법을 제안하고자 한다. 이는 입력 장치와 암호를 검증하기 위한 정보처리장치에 암호가 전달되기 전 이미 암호화된 상태에서 전달되도록 하는 방법으로, 암호를 처리하는 장치와 암호화하는 장치에 물리적 독립성(physical independence)을 부여함으로써 구현될 수 있다. 그리하여, 본 연구에서는 난수 대응과 단순 전치암호 등의 비교적 간단한 암호화 기법을 통해 실험하여 사용한 검증 과정과 선암호화 개념에 대한 메카니즘을 소개할 것이다.
+* 논문 내용 전문 : [다운로드](https://github.com/yjham2002/Pre-Encryption-via-Python/raw/master/Paper.pdf)
+* 논문 내용 검증을 위해 제작된 프로그램 소스코드 [on Github](https://github.com/yjham2002/Pre-Encryption-via-Python)
+
+
+## 감사합니다
