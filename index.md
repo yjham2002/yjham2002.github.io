@@ -122,7 +122,7 @@
 
 * 2016 정보보호학회 동계학술대회 발표 논문 검증 프로그램 Python 언어 구현 [on Github](https://github.com/yjham2002/Pre-Encryption-via-Python)
 
-* Go언어 및 Java언어를 이용한 동시성(Concurrency in Go and Java - IEEE, 2014) 재현 프로그램 구현[on Github](https://github.com/yjham2002/ConcurrencyTest_Java)
+* Go언어 및 Java언어를 이용한 동시성(Concurrency in Go and Java - IEEE, 2014) 재현 프로그램 구현 [on Github](https://github.com/yjham2002/ConcurrencyTest_Java)
 
 **특이사항**
 
@@ -191,6 +191,50 @@
 * [Firebase Crash Report](https://firebase.google.com)
 
 * [Firebase Cloud Messaging](https://firebase.google.com)
+
+### [건설정보 영업맨 - 검색없는 맞춤형 건설정보 알림앱](https://play.google.com/store/apps/details?id=com.dgu.lelab.bid.bidinfo)
+
+*건설정보 영업맨은 건설 관련 용역, 재화 그리고 공사 정보의 입찰 정보를 키워드 기반으로 사용자에게 알리는 정보 제공 플랫폼 앱입니다.*
+
+**개요**
+
+* 가입 시 입력한 키워드를 기반으로 자동으로 사용자에게 최적화된 입찰 정보를 제공합니다.
+
+* 자신이 입찰 공고를 직접 작성하고 사용자들과 이를 공유하고, 관심 있는 회원과 빠르게 연결될 수 있도록 알림 서비스를 제공합니다.
+
+* 입찰 정보를 하루 4회 크론탭으로 스케쥴링된 Java 기반의 자체 제작 크롤러가 약 200개의 웹사이트로부터 크롤링합니다.
+
+* 공식 정보 외의 민간 정보에 대해 키워드가 연관된 회사를 상세정보에서 노출하여 접근성을 향상시킵니다.
+
+**특징**
+
+* 입찰 정보를 다수의 사이트로부터 크롤링하여 많고 다양한 최신의 정보를 검색없이 받아볼 수 있습니다.
+
+* 사용자간의 소통을 통해 보다 빠른 회원간 니즈를 매칭합니다.
+
+* (주)경관공학연구소의 외주 업무로서 진행하였습니다.
+
+* 서버단 및 클라이언트단을 모두 단독으로 진행하였습니다.
+
+* ![소개 이미지 - yman01](https://lh3.googleusercontent.com/jVTuwVamLodvy7Jk3dkVu0eTS4Ydhzdit4uGy6H4N_JqzcDqVEZ9ULYTyfHbyr9eyPc=h900)
+
+* ![소개 이미지 - yman02](https://lh3.googleusercontent.com/VEpf0wo1EcnDvfSLRP3Vt2CC2GBTeat1PP8ee00VIip6m6Z5xxUJc1jjJqxtAVNASQ=h900)
+
+**협업 및 프로세스 관리도구**
+
+* 클라이언트 안드로이드 앱 [on Github](https://github.com/yjham2002/BidInfo)
+
+* Node.js 기반 서버 소스 [on Github](https://github.com/yjham2002/bidinfo_server)
+
+**오픈소스 라이센스** 
+
+* [MaterialViewPager](https://github.com/florent37/MaterialViewPager) - 안드로이드 클라이언트 
+
+* [JSoup : Java HTML Parser](https://jsoup.org) - 크롤러
+
+* [Firebase Crash Report](https://firebase.google.com) - 안드로이드 클라이언트
+
+* [Firebase Cloud Messaging](https://firebase.google.com) - 안드로이드 클라이언트
 
 ### [HideAndSeek - 혼자하는 술래잡기](https://play.google.com/store/apps/details?id=com.now.seek.and.hide.hideandseek)
 
