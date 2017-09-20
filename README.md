@@ -2,7 +2,7 @@
 
 ![Profile_img](http://yjham2002.cafe24.com/ham/images/who.png)
 
-- Keyword : C, C++, Java, Android, Node.js, Go, Java AWT/Swing, Python, VB, MySQL, Spring Framework, JSP, PHP, JavaScript, ActionScript 2.0, HTML, CSS, Web/UI/UX/BI/CI Design, PhotoShop
+- Keyword : Spring Framework, TCP/IP, MQTT, Netty, RTSP, C, C++, Java, Spark, Thrift, Android, Node.js, Go, Python, VB, Oracle, MS-SQL, MongoDB, MySQL, JSP, PHP, JavaScript, Linux, ActionScript 2.0, HTML, CSS, Web/UI/UX/BI/CI Design, Java AWT/Swing, Django, Earlang
 
 ***
 
@@ -14,7 +14,7 @@
 
 **생년월일** 
 
-* 1995년 05월 03일 출생 (서울특별시 영등포구)
+* 1995년 05월 03일 출생 (서울특별시 영등포구 신길동)
 
 **이메일** 
 
@@ -34,13 +34,15 @@
 
 * **2011.03 ~ 2014-02** [양평 양일고등학교](http://www.yangil.hs.kr) 졸업
 
-* **2014.03 ~ 현재** [동국대학교 컴퓨터공학전공](https://cse.dongguk.edu) 3학년 재학
+* **2014.03 ~ 2016.12** [동국대학교 컴퓨터공학전공](https://cse.dongguk.edu) 3학년 수료 및 휴학 
 
 **자격증**
 
 * **정보처리산업기사**
 
 * **국제공인 창의적 문제해결 기법 TRIZ Level 01**
+
+* **2종 보통/원동기 운전면허증**
 
 **경력** 
 
@@ -80,15 +82,57 @@
 
 * **2016.12 ~ 2016.12** - 동국대학교 컴퓨터공학과 주최 '소프트웨어공학 프로젝트' 우수상(동국대학교 컴퓨터공학과장상) 수상
 
+* **2017.01 ~ 현재** - (주)리치웨어시스템즈 '개발사업본부 서버팀 - 개발자/연구원'으로 재직(병역특례 산업기능요원)
+
 **외국어**
 
 * **TOEIC**
 
-***
+770
 
 ## 요약
 
+**TCP/IP 서버 및 Web Application Server**
+
+* (주)소하테크 IoT Smart-Farm 서비스 'Uni-Farm' 센서 통신기기 TCP/IP 서버 개발 (Java/Netty/Redis)
+
+* (주)소하테크 IoT Smart-Farm 서비스 'Uni-Farm' RTSP 프로토콜 기반 CCTV 연동 웹 개발 (RTSP)
+
+* 대전보건대학교 학사정보 연동 메신져 'HiT톡' WAS 서버 개발 (Spring/MS-SQL/MySQL/Oracle/MongoDB 연동)
+
+* 동대문 의류 자재 매장 관리 서비스 'KIWI(DR Corp.)' WAS 서버 개발 (Thrift RPC/MongoDB)
+
+* 동대문 의류 자재 매장 관리 서비스 'KIWI(DR Corp.)' 내 검색 엔진 코어 알고리즘 개발 (Thrift RPC/MongoDB)
+
+* 유방암 전문 의료기기 업체 Devicor '맘모톰' 하이브리드앱 뷰 및 WAS 서버 개발 (PHP/MySQL/JQuery/CSS)
+
+* (주)하나투어 하이브리드앱 '하나투어리스트' 뷰 및 WAS 서버 개발 (PHP/MySQL/JQuery/CSS) - 출시 전
+
+* (주)제로폰 휴대폰 시세 및 요금제 앱 '오짱' 하이브리드앱 뷰 및 WAS 서버 개발 (PHP/MySQL/JQuery/CSS) - 출시 전
+
+* PANGEA '소리친구' 네이티브 앱 음성인식 분석 코어 서버 개발 - 출시 전
+
+* (주)Duratech MQTT 프로토콜 기반 모터 상태 제어 웹 및 통신 서버 개발 - 출시 전
+
+* 입찰 정보 통합 서비스 앱 '영업맨' Node.js 및 ejs 기반 WAS 서버 
+
+* 소개팅 서비스 앱 '솔커(솔로에서 커플까지)' 관리자 PHP 기반 웹 개발
+
+**Reseach & Development**
+
+* (주)리치웨어시스템즈 자연어 처리 엔진 'GBot' R&D
+
+* (주)리치웨어시스템즈 분산처리 서비스 구축을 위한 'Hadoop' R&D
+
+* (주)리치웨어시스템즈 검색엔진 솔루션 내 Aho-Corasick 기반 단어 색인 및 프로파일링 핵심 알고리즘 R&D
+
+* (주)리치웨어시스템즈 내부 버전관리 서비스 gitLab 환경 구축
+
+* 코어 서버 병렬성 제어(Concurrency Control) 프로그래밍 R&D
+
 **Android 네이티브 어플리케이션** 
+
+* [건설정보 영업맨 - 검색없는 맞춤형 건설정보 알림앱](https://play.google.com/store/apps/details?id=com.dgu.lelab.bid.bidinfo)
 
 * [HideAndSeek - 혼자하는 술래잡기](https://play.google.com/store/apps/details?id=com.now.seek.and.hide.hideandseek)
 
@@ -286,3 +330,4 @@
 
 
 ## 감사합니다
+
