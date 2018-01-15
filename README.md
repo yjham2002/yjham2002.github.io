@@ -1,7 +1,5 @@
 # EuiJin Ham
 
-![Profile_img](http://yjham2002.cafe24.com/ham/images/who.png)
-
 - Keyword : Spring Framework, TCP/IP, MQTT, Netty, RTSP, C, C++, Java, Spark, Thrift, Android, Node.js, Go, Python, VB, Oracle, MS-SQL, MongoDB, MySQL, JSP, PHP, JavaScript, Linux, ActionScript 2.0, HTML, CSS, Web/UI/UX/BI/CI Design, Java AWT/Swing, Django, Earlang
 
 ***
