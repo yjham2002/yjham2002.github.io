@@ -1,7 +1,5 @@
 # EuiJin Ham
 
-![Profile_img](http://yjham2002.cafe24.com/ham/images/who.png)
-
 - Keyword : Spring Framework, TCP/IP, MQTT, Netty, RTSP, C, C++, Java, Spark, Thrift, Android, Node.js, Go, Python, VB, Oracle, MS-SQL, MongoDB, MySQL, JSP, PHP, JavaScript, Linux, ActionScript 2.0, HTML, CSS, Web/UI/UX/BI/CI Design, Java AWT/Swing, Django, Earlang
 
 ***
@@ -82,13 +80,15 @@
 
 * **2016.12 ~ 2016.12** - 동국대학교 컴퓨터공학과 주최 '소프트웨어공학 프로젝트' 우수상(동국대학교 컴퓨터공학과장상) 수상
 
-* **2017.01 ~ 현재** - (주)리치웨어시스템즈 '개발사업본부 서버팀 - 개발자/연구원'으로 재직(병역특례 산업기능요원)
+* **2017.01 ~ 2017.12** - (주)리치웨어시스템즈 '개발사업본부 서버팀 - 개발자/연구원'으로 재직(병역특례 산업기능요원)
+
+* **2017.12 ~ 현재** - PickleCode 대표
 
 **외국어**
 
 * **TOEIC**
 
-770
+865
 
 ## 요약
 
