@@ -2,7 +2,7 @@ title: EuiJin Ham
 description: 함의진
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
